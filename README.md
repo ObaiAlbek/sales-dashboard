@@ -26,23 +26,9 @@ Es zeigt die wichtigsten KPIs, Trends und Vergleiche aus verschiedenen Dimension
 
 ---
 
-## 📁 Projektstruktur
-
-sales-dashboard/
-│
-├── data/
-│   └── sales.xlsx
-│
-├── dashboard/
-│   ├── sales_dashboard.twbx
-│  
-└── 
-
----
-
 ## 📸 Dashboard-Vorschau
 
-![Dashboard](dashboard.png)
+![Dashboard](sales-dashboard/dashboard.png)
 
 ---
 
